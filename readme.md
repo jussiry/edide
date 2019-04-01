@@ -6,4 +6,4 @@ general discussion, since other forums don't exist.
 
 Technologies used: CodeMirror, MongoDB, Meteor.js
 
-Docs to be added. See: http://edide.xyz/#/edit/tutorials
+Docs to be added. See: http://edide.io/tutorials
